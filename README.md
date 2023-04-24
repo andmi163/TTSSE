@@ -9,3 +9,9 @@ This is part of Module 2 of the Techiques and Technologies for Scientific Softwa
 Create a repository. Make sure you have rudimentar LICENSE and README.md files.
 
 The repository can be made through the github website on one's account. Both files can be created from the beginning. I have chosen the MIT lisence.
+
+## Task 2
+
+Create at lest one more file.
+
+A python script with a function that prints "Hello" is created
