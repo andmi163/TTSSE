@@ -16,3 +16,9 @@ def sub_nums(num1,num2):
         print(num2,"-",num1,"=",total) 
 
 sub_nums(a,b)
+
+def mult_nums(num1,num2):
+        total = num1 * num2
+        print(num1,"*",num2,"=",total)
+
+mult_nums(a,b)
