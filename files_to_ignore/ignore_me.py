@@ -1,4 +1,4 @@
 def func():
-    print("I am being ignored")
+    print("Am I am being ignored?")
 
 func()
