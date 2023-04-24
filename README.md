@@ -16,6 +16,12 @@ Create at lest one more file.
 
 A python script with a function that prints "Hello" is created
 
+## Task 2
+
+Create at lest one more file.
+
+A python script with a function that prints "Hello" is created
+
 ## Task 3
 
 Create a file .gitignore.
