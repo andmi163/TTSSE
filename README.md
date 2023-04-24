@@ -1,1 +1,1 @@
-# TTSSE
+# This is a repository for the TTSSE PhD course
