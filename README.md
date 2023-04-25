@@ -82,4 +82,21 @@ These task descriptions were staged separately by selectin the file to stage in 
 
 ## Task 11
 
+Push, if you haven't done so recently.
+
+## Task 12
+
+Create a branch clean.
+
+Branch was created in VScode. It should not be published before doing a rebase.
+
+## Task 13
+
 On this branch, do an interactive rebase of all your commits made today, squash, drop and adapt the commit messages to the extent you want to bring it to a nice commit history.
+
+The following command is used for the rebase in branch clean:
+```
+git rebase -i <commit>
+```
+, pick certain commits and squash some to a previous one. Then re-set commit messages and publish branch.
+
