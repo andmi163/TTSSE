@@ -79,3 +79,7 @@ These five commits included creating a calculator script with addition, subtract
 Make several separate changes in e.g. README.md and only then stage one paragraph at a time and commit these changes separately.
 
 These task descriptions were staged separately by selectin the file to stage in Source Control, selecting the lines, right click and click "Stage Selected Ranges"
+
+## Task 11
+
+On this branch, do an interactive rebase of all your commits made today, squash, drop and adapt the commit messages to the extent you want to bring it to a nice commit history.
